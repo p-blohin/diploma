@@ -1,0 +1,13 @@
+/*nav {*/
+/*    width: 960px;*/
+/*    position: relative;*/
+/*    margin: 0 auto;*/
+/*}*/
+nav ul {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+nav li {
+    float:left;
+}
